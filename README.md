@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @iamcraz / Name:pooya/ 17 years old
 - 📍 Im originally Iranian but I live in Norway. 
 - 👀 I’m interested in Python
-- 🌱 I’m currently learning about : Front-end languages like Css,Bootstrap,Js, ... 
-- 💞️ I’m looking to collaborate on Python projects Or any useful Projects !
+- 🌱 I’m currently learning about : Front-end languages like Css , Bootstrap , Js , ... 
+- 💞️ I’m looking to collaborate on Python projects OR any useful Projects !
 - 
 - Love to learn more and more ...
 - 
