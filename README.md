@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @iamcraz / Name:Pooya/ 17 years old
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning about : Front-end languages like Css , Bootstrap , Js , ... 
-- 💞️ I’m looking to collaborate on Python projects OR any useful Projects !
+- 👀 I’m interested in .Net
+- 💞️ I’m looking to collaborate on .Net
 - 
 - Love to learn more and more ...
 - 
