@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iamcraz / Pooya/ 18 years old
 - 👀 I’m interested in .Net
 - 💞️ I’m looking to collaborate on .Net
-- 
+- And Now learning .Net Core 7 & Angular ...
 - Love to learn more and more ...
 - 
 
