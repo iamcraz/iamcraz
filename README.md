@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iamcraz / Pooya Vahidi/ 18 years old From Iran.Tehran
+- 👋 Hi, I’m @iamcraz / Pooya Vahidi/ 18 y.o From Iran.Tehran
 - 👀 I’m interested in .Net
 - 💞️ I’m looking to collaborate on .Net
 - And Now learning .Net Core 7 & Angular ...
